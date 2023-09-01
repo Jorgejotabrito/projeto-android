@@ -55,7 +55,7 @@ a.externo::after {
         color: white;
         max-width: 600px;
         margin: auto;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
     }
     header {
         background-color: var(--cor04);
